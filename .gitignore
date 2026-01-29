@@ -1,0 +1,9 @@
+# Visual Studio geçici ve derleme dosyaları
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.pdb
+*.obj
+*.exe
