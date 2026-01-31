@@ -16,8 +16,6 @@ void insertionSort(int arr[], int n) {
 	
 
 }
-
-
 void Print(int arr[], int n) {
 		
 	int i;
@@ -31,12 +29,7 @@ void Print(int arr[], int n) {
 		}
 
 		printf("\n");
-
-	
-
  }
-
-
 
 int main(){
 	
@@ -49,9 +42,6 @@ int main(){
 	insertionSort(arr, n);
 	printf("Sorted Array:\n");
 	Print(arr, n);
-
-
-
 
 	return 0;
 }
